@@ -1,2 +1,2 @@
 # rallyUp
-app for organzizers to connect and mobilize communities to action
+app for organizers to connect and mobilize communities to action
